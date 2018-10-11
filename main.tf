@@ -1,5 +1,5 @@
 variable "name" {
-  default = "bob"
+  default = "candice"
 }
 
 resource "random_id" "random" {
