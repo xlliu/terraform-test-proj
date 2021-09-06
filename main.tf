@@ -6,7 +6,7 @@ variable "name" {
 }
 
 resource "random_id" "random" {
-  byte_length = 16
+  byte_length = 24
 }
 
 output "random" {
